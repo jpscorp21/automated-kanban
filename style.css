@@ -5,3 +5,11 @@
     display: inline-block;
     border: 3px solid #333333;
 }
+
+.circle-red {
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 3px solid #333333;
+}
